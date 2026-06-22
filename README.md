@@ -14,7 +14,7 @@
 <br />
 <br />
 ## Skills
-<img alt="Python" src ="https://img.shields.io/badge/py-3776AB.svg?&style=for-the-badge&logo=python&logoColor=blue"/>
+<img alt="Python" src ="https://img.shields.io/badge/py-3776AB.svg?&style=for-the-badge&logo=python&logoColor=black"/>
 </div>
 <br />
 <br />
